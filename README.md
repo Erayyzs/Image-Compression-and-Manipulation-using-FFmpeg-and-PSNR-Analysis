@@ -1,0 +1,1 @@
+This repository contains the eighth lab assignment for the Multimedia Information Systems course, completed by Eray Samet Gündüz and Emre Yılmaz. The project focuses on understanding the effects of various image compression techniques and transformations using FFmpeg, along with PSNR (Peak Signal-to-Noise Ratio) analysis.
